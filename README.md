@@ -1,5 +1,4 @@
 # Paris-2024-Olympic-Games-Power-BI-Dashboard
-An Interactive Analysis of the Upcoming Global Sporting Event
 
 Dive into the world of sports analytics with our Power BI Paris 2024 Olympic Games Dashboard. This comprehensive and interactive dashboard is designed to provide detailed insights and visualizations for the highly anticipated Paris 2024 Olympics. Harnessing the power of Power BI and data from Kaggle, this project offers a dynamic way to analyze and explore the data related to the Olympics, all in one place.
 
